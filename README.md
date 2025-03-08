@@ -24,13 +24,13 @@ Currently, I am interning as an **Android Developer at [Makes360](https://www.ma
 ### 🎓 **[EDUMATE](#)**
 A complete **academic companion** app providing structured learning materials, placement resources, and video content for students. 
 
-### 📊 **[DSA Visualizer](#)**
+### 📊 **[DSA Visualizer](https://github.com/prince-kumar-dev/visualizer)**
 An interactive **sorting and tree traversal visualizer** that enhances learning by providing real-time visualization of DSA concepts.
 
-### ☁️ **[Weather App](#)**
+### ☁️ **[Weather App](https://github.com/prince-kumar-dev/Weather)**
 A **Java-based weather application** that fetches real-time weather updates and displays them in a user-friendly interface.
 
-### 📰 **[News App](#)**
+### 📰 **[News App](https://github.com/prince-kumar-dev/NewsApp)**
 A **Kotlin-based news application** that delivers the latest headlines, allowing users to stay updated with current affairs.
 
 ## 🏆 Achievements
@@ -42,7 +42,7 @@ A **Kotlin-based news application** that delivers the latest headlines, allowing
 ## 📫 Connect With Me
 📍 **Mohali, India**  
 📧 **princekumar.80107@gmail.com**  
-🔗 **[LinkedIn](#)** | **[GitHub](https://github.com/yourusername)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/princekumar-dev/)** | **[GitHub](https://github.com/yourusername)**  
 
 ---
 💡 *I’m always open to collaboration on exciting projects! Feel free to reach out.*
