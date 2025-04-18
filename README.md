@@ -41,8 +41,8 @@ A **Kotlin-based news application** that delivers the latest headlines, allowing
 
 ## 📫 Connect With Me
 📍 **Mohali, India**  
-📧 **princekumar.80107@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/princekumar-dev/)** | **[GitHub](https://github.com/yourusername)**  
+📧 **princek.justdev@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/princekumar-dev/)** | **[GitHub](https://github.com/prince-kumar-dev)**  
 
 ---
 💡 *I’m always open to collaboration on exciting projects! Feel free to reach out.*
