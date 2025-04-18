@@ -29,7 +29,7 @@ I'm a passionate **Android Developer** who loves crafting intuitive and performa
 
 ## 🏗️ Projects
 
-### ⚙️ [**DEV HOME DASHBOARD**](#)  
+### ⚙️ [**DEV HOME DASHBOARD**](https://github.com/prince-kumar-dev/prince-kumar-dev.github.io)  
 A modern, minimalistic **browser home page** designed for developers to boost daily productivity.  
 Includes customizable shortcuts, integrated search, task list, coding quotes, weather widget, dark mode, keyboard navigation & background theming.
 
