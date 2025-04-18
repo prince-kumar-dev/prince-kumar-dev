@@ -7,7 +7,7 @@ Currently, I am interning as an **Android Developer at [Makes360](https://www.ma
 
 ## 📌 Tech Stack
 - **Languages:** C, C++, Java, Kotlin, XML, HTML, CSS
-- **Core Skills:** Data Structures, Algorithms, OOP, RDBMS, MySQL
+- **Core Skills:** Data Structures, Algorithms, OOP, RDBMS, MySQL, JDBC, Hibernate
 - **Tools & Platforms:** Git, GitHub, VS Code, Windows, Debugging, Firebase, Android Studio
 
 ## 💼 Experience
